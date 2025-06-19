@@ -1,8 +1,8 @@
 # Kritik Mathur – Aspiring Project Manager
 
-🎯 Transitioning from Business Analyst to Project Management  
-📌 Currently preparing for CAPM, ECBA, and building real-world PM artifacts  
-🛠️ Tools: Excel, JIRA, SQL, Tableau, Power BI, MS Project, GitHub  
+🎯 Transitioning from Data Research Analyst to Project Management  
+📌 Currently preparing for CAPM and building real-world PM artifacts  
+🛠️ Tools: Excel, JIRA, SQL, Tableau, Power BI, LucidChart, GitHub  
 
 ---
 
@@ -21,5 +21,5 @@
 
 ## 📌 Goals
 - Secure an Associate Project Manager role by 2025
-- Complete CAPM and Google Project Management Specialization
+- Complete CAPM
 - Build a practical project portfolio
