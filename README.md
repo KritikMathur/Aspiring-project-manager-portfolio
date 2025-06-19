@@ -1,6 +1,6 @@
 # Kritik Mathur – Aspiring Project Manager
 
-🎯 Transitioning from Business Analyst to Project Management  
+🎯 Transitioning Data Research Analyst to Project Management  
 📌 Currently preparing for CAPM, ECBA, and building real-world PM artifacts  
 🛠️ Tools: Excel, JIRA, SQL, Tableau, Power BI, MS Project, GitHub  
 
